@@ -9,4 +9,4 @@ Will be updated more once there is more progress into the application.
 4. Loans
 
 #### AI side:
-Similar to TickTok Algorithm to build a book recommendation for people based on their tastes.
+Similar to TikTok Algorithm to build a book recommendation for people based on their tastes.
